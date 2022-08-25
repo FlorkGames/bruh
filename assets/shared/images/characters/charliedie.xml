@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="charliedie.png">
+<SubTexture name="charliedie oof0000" x="0" y="0" width="551" height="256" frameX="-32" frameY="-200" frameWidth="700" frameHeight="500" />
+<SubTexture name="charliedie revive0000" x="0" y="0" width="551" height="256" frameX="-32" frameY="-200" frameWidth="700" frameHeight="500" />
+<SubTexture name="charliedie dance0000" x="0" y="0" width="551" height="256" frameX="-32" frameY="-200" frameWidth="700" frameHeight="500" />
+</TextureAtlas>

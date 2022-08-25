@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="orange.png">
+<SubTexture name=" down0000" x="100" y="0" width="280" height="257" frameX="-278" frameY="-503" frameWidth="800" frameHeight="800" />
+<SubTexture name=" down0001" x="380" y="0" width="273" height="247" frameX="-285" frameY="-513" frameWidth="800" frameHeight="800" />
+<SubTexture name=" idle0000" x="653" y="0" width="275" height="341" frameX="-275" frameY="-419" frameWidth="800" frameHeight="800" />
+<SubTexture name=" idle0001" x="653" y="0" width="275" height="341" frameX="-275" frameY="-419" frameWidth="800" frameHeight="800" />
+<SubTexture name=" idle0002" x="0" y="341" width="319" height="313" frameX="-295" frameY="-447" frameWidth="800" frameHeight="800" />
+<SubTexture name=" idle0003" x="0" y="341" width="319" height="313" frameX="-295" frameY="-447" frameWidth="800" frameHeight="800" />
+<SubTexture name=" idle0004" x="319" y="341" width="348" height="330" frameX="-220" frameY="-430" frameWidth="800" frameHeight="800" />
+<SubTexture name=" idle0005" x="319" y="341" width="348" height="330" frameX="-220" frameY="-430" frameWidth="800" frameHeight="800" />
+<SubTexture name=" left0000" x="667" y="341" width="240" height="391" frameX="-201" frameY="-369" frameWidth="800" frameHeight="800" />
+<SubTexture name=" left0001" x="928" y="0" width="264" height="385" frameX="-177" frameY="-375" frameWidth="800" frameHeight="800" />
+<SubTexture name=" right0000" x="907" y="385" width="310" height="343" frameX="-264" frameY="-373" frameWidth="800" frameHeight="800" />
+<SubTexture name=" right0001" x="0" y="728" width="297" height="341" frameX="-277" frameY="-375" frameWidth="800" frameHeight="800" />
+<SubTexture name=" up0000" x="297" y="728" width="273" height="500" frameX="-243" frameY="-195" frameWidth="800" frameHeight="800" />
+<SubTexture name=" up0001" x="907" y="728" width="274" height="499" frameX="-236" frameY="-261" frameWidth="800" frameHeight="800" />
+</TextureAtlas>
